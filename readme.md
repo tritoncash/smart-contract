@@ -1,0 +1,1 @@
+truffle run verify Triton@{contract-address} --network testn
